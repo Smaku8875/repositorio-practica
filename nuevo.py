@@ -1,2 +1,2 @@
 nombre ="jorgita"
-print ("Hola" + nombre)
+print ("Hola" + " " + nombre)
